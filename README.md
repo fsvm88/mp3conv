@@ -12,3 +12,8 @@ This is an old and no-more useful script to convert anything the *lame* encoder 
 **This is NOT maintained anymore. Last modifications were done in 2008 IIRC.**
 
 This script is here just for *reference* and to serve as an *example* for bash coding.
+
+**THIS SCRIPT HAS BUGS!**
+======
+
+Known ones include multiple unneeded directories creation if the target already exists and includes spaces in the name.
